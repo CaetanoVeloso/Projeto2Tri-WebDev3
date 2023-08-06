@@ -27,3 +27,7 @@ h1 {
     background-color: rgb(50, 50, 50);
     padding: .5rem 1rem;
 }
+.correct {
+    color: green;
+    text-decoration: none;
+}
