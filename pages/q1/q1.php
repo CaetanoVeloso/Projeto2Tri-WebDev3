@@ -1,16 +1,23 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../../style.css">
     <title>Projeto 2Tri - WebDev3</title>
+    <link rel="icon" type="image/x-icon" href="../../favicon.ico">
 </head>
 <html>
 
 <body>
-<h1>Gerador de Elementos HTML e seus Códigos-fontes</h1>
+    <header>
+        <h2>Desenvolvimento Web</h2>
+        <a href="../../index.php" class="home"> Home </a>
+    </header>
+    <h1>Trabalho: Questão 01</h1>
+    <h1>Gerador de Elementos HTML e seus Códigos-fontes</h1>
     <form action="" method="get" id="formulario-questoes">
         <fieldset>
             <legend>Geração de elementos</legend>
@@ -100,7 +107,8 @@
     }
     ?>
     <footer>
-        
+        <p>Caetano Veloso e Tales Cordeiro - &copy;2023</p>
     </footer>
 </body>
+
 </html>
